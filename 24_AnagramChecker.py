@@ -18,10 +18,6 @@
 # program.
 # • Check that both words are the same length.
 
-print("Enter two strings and I'll tell you if they are anagrams: ")
-first = input("Enter the first string: ")
-second = input("Enter the second string: ")
-
 def myAnagram(a,b):
     if (len(a) == len(b)):
         cont = 0
@@ -33,6 +29,10 @@ def myAnagram(a,b):
         return cont == len(b)
     else:
         return False
+
+print("Enter two strings and I'll tell you if they are anagrams: ")
+first = input("Enter the first string: ")
+second = input("Enter the second string: ")
 
 if(myAnagram(first,second)):
     print(first + " and " + second + " are anagrams" )
