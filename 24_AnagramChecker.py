@@ -22,7 +22,7 @@ print("Enter two strings and I'll tell you if they are anagrams: ")
 first = input("Enter the first string: ")
 second = input("Enter the second string: ")
 
-def isAnagram(a,b):
+def myAnagram(a,b):
     if (len(a) == len(b)):
         cont = 0
         for letra in a:
@@ -34,7 +34,7 @@ def isAnagram(a,b):
     else:
         return False
 
-if(isAnagram(first,second)):
+if(myAnagram(first,second)):
     print(first + " and " + second + " are anagrams" )
 else:
     print(first + " and " + second + " are not anagrams" )
