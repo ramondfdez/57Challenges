@@ -34,7 +34,7 @@ while not valido:
         age = int(input("Age: "))
         restingHR = int(input("Resting Pulse: "))
         valido = True
-    except:
+    except ValueError:
         print("Enter valid numbers ")
 
 
