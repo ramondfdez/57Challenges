@@ -11,10 +11,9 @@
 # Constraint
 # • Use a nested loop to complete this program.
 
-numbers = list(range(1,13))
-products = list(range(1,11))
+numbers = list(range(0,13))
 
 for i in numbers:
-    for j in products:
+    for j in numbers:
         print(str(i) + "x" + str(j) + " = " + str(i*j) )
 
