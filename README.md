@@ -36,3 +36,31 @@ All codes written in Python.
 |  28   |  Adding Numbers     |
 |  29   |  Handling Bad Input     |
 |  30   |  Multiplication Table      |
+|  31   |  Karnoven Heart Rate      |
+|  32   |  Guess the Number Game      |
+|  33   |  Magic 8 Ball     |
+|  34   |  Employee List Removal      |
+|  35   |  Picking a Winner     |
+|  36   |  Computing Statistics      |
+|  37   |  Password Generator      |
+|  38   |  Filtering Values      |
+|  39   |  Sorting Records      |
+|  40   |  Filtering Records      |
+|  41   |  Name Sorter      |
+|  42   |  Parsing a Data File      |
+|  43   |  Website Generator      |
+|  44   |  Product Search      |
+|  45   |  Word Finder      |
+|  46   |  Word Frequecy Finder      |
+|  47   |  Who's in Space?     |
+|  48   |  Grabbing the weather      |
+|  49   |  Flickr Photo Search      |
+|  50   |  Movie Recommendations      |
+|  51   |  Pushing Notes to Firebase      |
+|  52   |  Creating Your Own Time Service      |
+|  53   |  Todo List      |
+|  54   |  URL Shortener      |
+|  55   |  Text Sharing      |
+|  56   |  Tracking Inventory      |
+|  57   |  Trivia App      |
+
